@@ -1,8 +1,8 @@
 # E-Commerce Website
 
-![Website Screenshot]([Screenshot (55).png])
+<img src="Screenshot (55).png">
 <br>
-![Website Screenshot](Screenshot (56).png)
+<img src="Screenshot (56).png">
 
 A e-commerce website built using HTML, CSS, and JavaScript.
 
