@@ -1,7 +1,8 @@
 # E-Commerce Website
 
 ![Website Screenshot]([Screenshot (55).png])
-![Website Screenshot]([Screenshot (56).png])
+<br>
+![Website Screenshot](Screenshot (56).png)
 
 A e-commerce website built using HTML, CSS, and JavaScript.
 
